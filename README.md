@@ -1,16 +1,14 @@
-### Hi there 👋
+### eai blz 👋
 
-<!--
-**lnclnsl/lnclnsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Informações básicas
+Me chamo Lincoln, estudo computação e faço alguns códigos
 
-Here are some ideas to get you started:
+#### Informações específicas
+- __nome:__ Lincoln de Santana Lopes
+- __idade:__ 24 anos
+- __Onde mora:__ Interior da Bahia
+- __Conhecimentos em:__ PHP, Mysql, CSS, Javascript, Git e um pocuo de C/Java.
+- __Universidade:__ Atualmente estou cursando o sétimo período do Curso de Licenciatura em Computação pelo Instituto Federal de Ciência e Tecnologia da Bahia (IFBA - Campus Jacobina)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Carreira
+Atualmente estou fazendo alguns serviços como _reelancer_
